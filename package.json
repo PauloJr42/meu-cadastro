@@ -4,7 +4,7 @@
   "description": "Projeto Teste do Rolamento",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon src/server.js",
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +21,7 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "mongoose": "^6.7.0",
     "path": "^0.12.7"
   },
   "devDependencies": {
