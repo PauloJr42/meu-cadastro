@@ -1,6 +1,19 @@
 # Projeto teste de cadastro com React
 Nesse projeto estarei usando Insomnia e MongoDb para o banco de dados!
 
+Alem do banco de dados estou instalando algumas dependendcias como:
+
+## Express
+npm install express
+## CookieParser
+npm install cookie-parser
+##  Cors
+npm install cors
+## path
+npm install path
+## mongoose
+npm install mongoose
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
